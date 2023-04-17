@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\BeefyBlaster627\Desktop\Введение в программирование\Lab4\ConsoleApplication1\ConsoleApplication1.cpp(30,11): warning C4101: 'a1': unreferenced local variable
+C:\Users\BeefyBlaster627\Desktop\Введение в программирование\Lab4\ConsoleApplication1\ConsoleApplication1.cpp(31,11): warning C4101: 'b1': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\BeefyBlaster627\Desktop\Введение в программирование\Lab4\Debug\ConsoleApplication1.exe
