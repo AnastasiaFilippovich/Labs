@@ -1,0 +1,4 @@
+﻿  Lab15.cpp
+C:\Users\BeefyBlaster627\Desktop\Введение в программирование\Lab15\Lab15\Lab15.cpp(7,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\BeefyBlaster627\Desktop\Введение в программирование\Lab15\Lab15\Lab15.cpp(40): warning C4715: 'Quarter': not all control paths return a value
+  Lab15.vcxproj -> C:\Users\BeefyBlaster627\Desktop\Введение в программирование\Lab15\Debug\Lab15.exe
